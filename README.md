@@ -1,3 +1,3 @@
-# practiceGit_k
+# practiceGit_KihiraDaichi
 
 GitHub練習
