@@ -1,6 +1,3 @@
-# CreateWebApp
+# practiceGit_k
 
-Create Web App member
-a
-b
-v
+GitHub練習
